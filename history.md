@@ -40,10 +40,6 @@
 
 `git status`
 
-`git remote add origin https://github.com/VlaDosWOW/scripts.git`
-
-`git push origin master`
-
 `git remote add origin git@github.com:VlaDosWOW/scripts.git`
 
 `git push origin master`
@@ -52,12 +48,8 @@
 
 `nano README.md`
 
-`git pull master master`
-
-`git pull origin/master master`
-
 `git branch --set-upstream-to=origin/master master`
 
 `git pull`
 
-`nano README.md`
+
