@@ -1,22 +1,34 @@
-`sudo apt install git build-essential dkms` 
+**Installing git**
 
 `sudo apt-get install git` 
 
+**Going to project folder**
+
 `cd Desktop/projects/scripts`
+
+**Entering email and user name**
 
 `git config --global user.email "vasko.vlad.2006@gmail.com"`
 
 `git config --global user.name "VlaDosWOW"`
 
+**Commiting first commi**
+
 `git commit -m "1st commit"`
 
-`git status `
+**Watching status of local repository**
+
+`git status`
+
+**Wathing history of repository**
 
 `git log`
 
+**Wathing difference of local and GitHub repository**
+
 `git diff`
 
-`nano README.md `
+`nano README.md`
 
 `git add .`
 
@@ -26,7 +38,7 @@
 
 `nano README.md`
 
-`git status `
+`git status`
 
 `git remote add origin https://github.com/VlaDosWOW/scripts.git`
 
@@ -38,7 +50,7 @@
 
 `git pull`
 
-`nano README.md `
+`nano README.md`
 
 `git pull master master`
 
